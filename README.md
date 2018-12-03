@@ -1,2 +1,2 @@
-# Homework9-Dimensional-Reduction-tutorial-
+# Homework9-Dimensional-Reduction-tutorial
 Dimensional Reduction tutorial 
